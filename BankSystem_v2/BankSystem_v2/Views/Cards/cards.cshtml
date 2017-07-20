@@ -1,0 +1,39 @@
+﻿@using DataAccess.Entity
+
+@{
+    ViewBag.Title = "cards";
+}
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>YourBank - Cards</title>
+</head>
+<body>
+    <div>
+        <table>
+            <tr>
+                <td>
+                    <h1 style="font-size:26px;">YourBank - Cards</h1>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <ul style="list-style: none;">
+                        @foreach (Card card in (List<Card>)ViewData["cards"])
+                        {
+                            <li>@card.ToString()</li>
+                        }
+                    </ul>
+                </td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>

@@ -1,0 +1,30 @@
+C:\Users\stoqn\Desktop\BankSystem_v2\DataAccess\bin\Debug\DataAccess.exe.config
+C:\Users\stoqn\Desktop\BankSystem_v2\DataAccess\bin\Debug\DataAccess.exe
+C:\Users\stoqn\Desktop\BankSystem_v2\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\stoqn\Desktop\BankSystem_v2\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\stoqn\Desktop\BankSystem_v2\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\stoqn\Desktop\BankSystem_v2\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\stoqn\Desktop\BankSystem_v2\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\stoqn\Desktop\BankSystem_v2\DataAccess\obj\Debug\DataAccess.exe
+C:\Users\stoqn\Desktop\BankSystem_v2\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\koko\Desktop\BankSystem_v2\DataAccess\bin\Debug\DataAccess.exe.config
+C:\Users\koko\Desktop\BankSystem_v2\DataAccess\bin\Debug\DataAccess.exe
+C:\Users\koko\Desktop\BankSystem_v2\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\koko\Desktop\BankSystem_v2\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\koko\Desktop\BankSystem_v2\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\koko\Desktop\BankSystem_v2\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\koko\Desktop\BankSystem_v2\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\koko\Desktop\BankSystem_v2\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\koko\Desktop\BankSystem_v2\DataAccess\obj\Debug\DataAccess.exe
+C:\Users\koko\Desktop\BankSystem_v2\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\stoqn\Desktop\BankSystem_v2\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\Cool stuff\BankSystem_v2\DataAccess\bin\Debug\DataAccess.exe.config
+E:\Cool stuff\BankSystem_v2\DataAccess\bin\Debug\DataAccess.exe
+E:\Cool stuff\BankSystem_v2\DataAccess\bin\Debug\DataAccess.pdb
+E:\Cool stuff\BankSystem_v2\DataAccess\bin\Debug\EntityFramework.dll
+E:\Cool stuff\BankSystem_v2\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\Cool stuff\BankSystem_v2\DataAccess\bin\Debug\EntityFramework.xml
+E:\Cool stuff\BankSystem_v2\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\Cool stuff\BankSystem_v2\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\Cool stuff\BankSystem_v2\DataAccess\obj\Debug\DataAccess.exe
+E:\Cool stuff\BankSystem_v2\DataAccess\obj\Debug\DataAccess.pdb

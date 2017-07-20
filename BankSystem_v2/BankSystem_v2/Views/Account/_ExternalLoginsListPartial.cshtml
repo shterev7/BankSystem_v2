@@ -1,0 +1,58 @@
+﻿@model BankSystem_v2.Models.ExternalLoginListViewModel
+@using Microsoft.Owin.Security
+
+<h4>It is easier when you do it online</h4>
+<hr />
+@{
+    var loginProviders = Context.GetOwinContext().Authentication.GetExternalAuthenticationTypes();
+    if (loginProviders.Count() == 0) {
+        <div>
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+            <style>
+                .mySlides {
+                    display: none;
+                }
+            </style>
+            
+
+               
+
+                <div class="w3-content w3-section" style="max-width:500px">
+                    <img class="mySlides" src="~/Content/Images/simple.jpg" style="width:100%">
+                    <img class="mySlides" src="~/Content/Images/credit.jpg" style="width:100%">
+                    <img class="mySlides" src="~/Content/Images/shop.png" style="width:100%">
+                </div>
+
+                <script>
+                    var myIndex = 0;
+                    carousel();
+
+                    function carousel() {
+                        var i;
+                        var x = document.getElementsByClassName("mySlides");
+                        for (i = 0; i < x.length; i++) {
+                            x[i].style.display = "none";
+                        }
+                        myIndex++;
+                        if (myIndex > x.length) { myIndex = 1 }
+                        x[myIndex - 1].style.display = "block";
+                        setTimeout(carousel, 3000); 
+                    }
+                </script>
+            
+</div>
+    }
+    else {
+        using (Html.BeginForm("ExternalLogin", "Account", new { ReturnUrl = Model.ReturnUrl })) {
+            @Html.AntiForgeryToken()
+            <div id="socialLoginList">
+                <p>
+                    @foreach (AuthenticationDescription p in loginProviders) {
+                        <button type="submit" class="btn btn-primary" id="@p.AuthenticationType" name="provider" value="@p.AuthenticationType" title="Log in using your @p.Caption account">@p.AuthenticationType</button>
+                    }
+                </p>
+            </div>
+        }
+    }
+}

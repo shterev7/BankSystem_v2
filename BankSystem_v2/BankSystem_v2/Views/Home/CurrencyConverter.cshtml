@@ -1,0 +1,58 @@
+﻿@model BankSystem_v2.Models.CurrencyConverter
+
+@{
+    ViewBag.Title = "Currency Converter";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Place</legend>
+
+        <table>
+            <tr>
+                <th>
+                    @Html.Label("From: ")
+                </th>
+                <th>
+                    @Html.DropDownList("From", new SelectList(
+                        new List<object> { "BGN", "USD", "EUR", "GBP" }))
+                </th>
+
+                <th>
+
+                    @InputExtensions.TextBox(Html, "SumFrom", ViewBag.Sum)
+                </th>
+
+                <th>
+                    <input type="submit" value="Convert" />
+                </th>
+                <th>
+
+                    @Html.Label("To: ")
+                </th>
+                <th>
+
+                    @Html.DropDownList("To", new SelectList(
+                        new List<object> { "BGN", "USD", "EUR", "GBP" }))
+                </th>
+
+                <th>
+                    @InputExtensions.TextBox(Html, "SumTo", ViewBag.SumReturn)
+
+                </th>
+            </tr>
+        </table>
+
+    </fieldset>
+
+
+}
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+

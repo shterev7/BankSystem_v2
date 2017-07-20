@@ -1,0 +1,252 @@
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\ApplicationInsights.config
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\roslyn\csc.exe
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\roslyn\vbc.exe
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\roslyn\VBCSCompiler.exe
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\BankSystem_v2.dll.config
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\BankSystem_v2.dll
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\BankSystem_v2.pdb
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\Antlr3.Runtime.dll
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\EntityFramework.dll
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\EntityFramework.SqlServer.dll
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.AI.Web.dll
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.dll
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Security.dll
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\Newtonsoft.Json.dll
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\Owin.dll
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\System.Web.Helpers.dll
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\System.Web.Mvc.dll
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\System.Web.Optimization.dll
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\System.Web.Razor.dll
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\System.Web.WebPages.dll
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\System.Web.WebPages.Razor.dll
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\WebGrease.dll
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.AI.Web.xml
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\System.Web.Helpers.xml
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\System.Web.Mvc.xml
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\System.Web.Optimization.xml
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\System.Web.Razor.xml
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\System.Web.WebPages.xml
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\System.Web.WebPages.Razor.xml
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\Antlr3.Runtime.pdb
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\Newtonsoft.Json.xml
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\EntityFramework.xml
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\EntityFramework.SqlServer.xml
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.xml
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Security.xml
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\obj\Debug\BankSystem_v2.csprojResolveAssemblyReference.cache
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\obj\Debug\BankSystem_v2.dll
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\obj\Debug\BankSystem_v2.pdb
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\DataAccess.exe
+C:\Users\stoqn\Desktop\BankSystem_v2\BankSystem_v2\bin\DataAccess.pdb
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\ApplicationInsights.config
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\roslyn\csc.exe
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\roslyn\vbc.exe
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\roslyn\VBCSCompiler.exe
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\BankSystem_v2.dll.config
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\BankSystem_v2.dll
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\BankSystem_v2.pdb
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\Antlr3.Runtime.dll
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\DataAccess.exe
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\EntityFramework.dll
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\EntityFramework.SqlServer.dll
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.AI.Web.dll
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.dll
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Security.dll
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\Newtonsoft.Json.dll
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\Owin.dll
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\System.Web.Helpers.dll
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\System.Web.Mvc.dll
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\System.Web.Optimization.dll
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\System.Web.Razor.dll
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\System.Web.WebPages.dll
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\System.Web.WebPages.Razor.dll
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\WebGrease.dll
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\DataAccess.pdb
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.AI.Web.xml
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\System.Web.Helpers.xml
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\System.Web.Mvc.xml
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\System.Web.Optimization.xml
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\System.Web.Razor.xml
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\System.Web.WebPages.xml
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\System.Web.WebPages.Razor.xml
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\Antlr3.Runtime.pdb
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\Newtonsoft.Json.xml
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\EntityFramework.xml
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\EntityFramework.SqlServer.xml
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.xml
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Security.xml
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\obj\Debug\BankSystem_v2.csprojResolveAssemblyReference.cache
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\obj\Debug\BankSystem_v2.dll
+C:\Users\koko\Desktop\BankSystem_v2\BankSystem_v2\obj\Debug\BankSystem_v2.pdb
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\ApplicationInsights.config
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\roslyn\csc.exe
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\roslyn\System.Collections.Immutable.dll
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\roslyn\System.Reflection.Metadata.dll
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\roslyn\vbc.exe
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\roslyn\VBCSCompiler.exe
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\roslyn\VBCSCompiler.exe.config
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\BankSystem_v2.dll.config
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\BankSystem_v2.dll
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\BankSystem_v2.pdb
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\Antlr3.Runtime.dll
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\DataAccess.exe
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\EntityFramework.dll
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\EntityFramework.SqlServer.dll
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\Microsoft.AI.DependencyCollector.dll
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\Microsoft.AI.Web.dll
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\Microsoft.AI.WindowsServer.dll
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\Microsoft.ApplicationInsights.dll
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.dll
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Security.dll
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Security.Google.dll
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\Microsoft.Web.Infrastructure.dll
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\Newtonsoft.Json.dll
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\Owin.dll
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\System.Web.Helpers.dll
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\System.Web.Mvc.dll
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\System.Web.Optimization.dll
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\System.Web.Razor.dll
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\System.Web.WebPages.Deployment.dll
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\System.Web.WebPages.dll
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\System.Web.WebPages.Razor.dll
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\WebGrease.dll
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\DataAccess.pdb
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\Microsoft.AI.DependencyCollector.xml
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\Microsoft.AI.Web.xml
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\Microsoft.AI.WindowsServer.xml
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\Microsoft.ApplicationInsights.xml
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\System.Web.Helpers.xml
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\System.Web.Mvc.xml
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\System.Web.Optimization.xml
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\System.Web.Razor.xml
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\System.Web.WebPages.xml
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\System.Web.WebPages.Deployment.xml
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\System.Web.WebPages.Razor.xml
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\Antlr3.Runtime.pdb
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\Newtonsoft.Json.xml
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\EntityFramework.xml
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\EntityFramework.SqlServer.xml
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.xml
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Security.xml
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Security.Google.xml
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\obj\Debug\BankSystem_v2.csprojResolveAssemblyReference.cache
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\obj\Debug\BankSystem_v2.dll
+E:\Cool stuff\BankSystem_v2\BankSystem_v2\obj\Debug\BankSystem_v2.pdb
